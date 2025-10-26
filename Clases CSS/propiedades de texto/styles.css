@@ -1,0 +1,25 @@
+p {
+    color: red;
+    font-family: Noto Sans;
+    font-size: 13px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 2;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    text-decoration: line-through;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+}
